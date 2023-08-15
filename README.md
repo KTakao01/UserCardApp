@@ -1,5 +1,5 @@
 # UserCardApp
-JSによるDOM操作になれるためのRecursionのフロントエンド・プロジェクト1の最終課題。
+JSによるDOM操作になれるためのRecursionのフロントエンド・プロジェクト1の最終課題（HTML/CSS/Boostrap/JS）。
 ガイドライン、デザインは規定。実装は独力で行った。
 
 以下、Recursionより引用。本プロジェクトの課題以外ででてきたコーディング問題のコードはRecursionCSレポジトリに記載。
